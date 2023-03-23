@@ -1,7 +1,6 @@
 body {
     font-family: open sans, sans-serif;
-    background-color: #FFFFFF;
-    color: #434455
+    
     
   }
   /* header */
@@ -19,9 +18,10 @@ body {
   .header-nav {
   }
   .header-logo {
+    font-family:'Raleway';
     font-weight: 800;
     font-size: 18px;
-    line-height: 1.16;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
