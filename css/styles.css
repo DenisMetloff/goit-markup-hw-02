@@ -133,9 +133,9 @@ body {
   }
   
   /* section3 */
-  .section3 {
+  .section_3 {
   }
-  .section3-title {
+  .section-title {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
@@ -144,20 +144,20 @@ body {
     text-transform: capitalize;
     color: #2e2f42;
   }
-  .section3-list {
+  .section-list {
   }
   
-  .section3-item {
+  .section-item {
   }
-  .section3-img {
+  .section-img {
   }
   
   /* section 4 */
   
-  .section4 {
+  .section_4 {
     background: #f4f4fd;
   }
-  .section4-titel-4 {
+  .content-titel {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
@@ -166,15 +166,14 @@ body {
     text-transform: capitalize;
     color: #2e2f42;
   }
-  .section4-list {
+  .content-list {
   }
-  .list {
+
+  .content-item {
   }
-  .section4-item {
+  .content-foto {
   }
-  .section4-foto {
-  }
-  .section4-subtitle-3 {
+  .content-subtitle {
     font-weight: 500;
     font-size: 20px;
     line-height: 24px;
@@ -182,7 +181,7 @@ body {
     letter-spacing: 0.02em;
     color: #2e2f42;
   }
-  .section4-text {
+  .content-text {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
