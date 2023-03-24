@@ -1,7 +1,8 @@
 body {
     font-family: open sans, sans-serif;
-    
-    
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #FFFFFF ;
   }
   /* header */
   
@@ -9,6 +10,7 @@ body {
       background: #FFFFFF;
       
   }
+  
   .list {
     list-style: none;
   }
@@ -18,7 +20,7 @@ body {
   .header-nav {
   }
   .header-logo {
-    font-family:'Raleway';
+    font-family: "Raleway", sans-serif;
     font-weight: 800;
     font-size: 18px;
     line-height: 1.17;
@@ -26,6 +28,7 @@ body {
     text-transform: uppercase;
     color: #4d5ae5;
   }
+  .logo-item{}
   .header-list {
   }
   .header-item {
@@ -68,7 +71,7 @@ body {
   .section1-button {
     font-weight: 500;
     font-size: 16px;
-    line-height: 1.07;
+    line-height: 1.5;
     letter-spacing: 0.04em;
     background-color: #4D5AE5;
     font-family: 'Roboto', sans-serif ;
