@@ -82,10 +82,10 @@ body {
   
   /* section1 */
   
-  .section1 {
+  .section-1 {
     background: #2e2f42;
   }
-  .section1-subtitle {
+  .section-1-subtitle {
     font-weight: 700;
     font-size: 56px;
     line-height: 1.07;
@@ -93,7 +93,7 @@ body {
     letter-spacing: 0.02em;
     color: #ffffff;
   }
-  .section1-button {
+  .section-1-button {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -103,6 +103,12 @@ body {
     color: #ffffff;
     cursor: pointer;
   }
+  .section-1-button:hover,
+  .section-1-button:focus{
+    background-color: #404BBF;
+  }
+
+
   /* section2 */
   .section2- {
   }
