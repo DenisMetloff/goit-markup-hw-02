@@ -46,13 +46,20 @@ body {
   }
   .header-link:hover,
   .header-link:focus{
-    color:#404bbf; 
+    color: #404bbf  
   }
 
   .header-address{
     font-style: normal;
+    color:var(--color-slate);
+    text-decoration: none;
   
   }
+  .header-info:hover,
+  .header-info:focus{
+    color: #404bbf 
+  }
+
 
    .header-info{
     font-size: 16px;
