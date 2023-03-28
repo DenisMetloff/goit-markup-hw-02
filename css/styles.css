@@ -209,7 +209,7 @@ body {
   color: #f4f4fd;
 }
 
-/* porfolio */
+/* portfolio */
 
 .btn {
   font-family: "Roboto", sans-serif;
@@ -228,6 +228,9 @@ body {
 }
 .working_list {
 }
+.working_link {
+
+}
 
 .working_item {
 }
@@ -243,5 +246,5 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  
+
 }
