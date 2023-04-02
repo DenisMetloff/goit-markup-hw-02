@@ -1,4 +1,32 @@
 /** @format */
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: o;
+}
+ul {
+  margin: o;
+  padding-left: 0;
+}
+.list {
+  list-style: none;
+}
+.link {
+  text-decoration: none;
+}
+button {
+  cursor: pointer;
+}
+address {
+  font-style: normal;
+}
+img {
+  display: block;
+}
 
 body {
   font-family: open sans, sans-serif;
@@ -9,17 +37,18 @@ body {
 :root {
 }
 /* header */
+.conteiner {
+  width: 1177px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: 0 auto;
+}
 
 .header {
   background: #ffffff;
+  padding-top: 25.5px;
 }
 
-.list {
-  list-style: none;
-}
-.link {
-  text-decoration: none;
-}
 .header-nav {
 }
 .header-logo {
@@ -79,6 +108,7 @@ body {
   text-align: center;
   letter-spacing: 0.02em;
   color: #ffffff;
+  margin-bottom: 48px;
 }
 .team_button {
   font-weight: 500;
@@ -97,6 +127,8 @@ body {
 
 /* section2 */
 .section_2 {
+  padding-bottom: 120px;
+  padding-top: 120px;
 }
 .section_title {
   font-weight: 700;
@@ -128,6 +160,8 @@ body {
 
 /* section3 */
 .section_3 {
+  padding-bottom: 120px;
+  padding-top:120px;
 }
 .section-title {
   font-weight: 700;
@@ -150,6 +184,8 @@ body {
 
 .aside {
   background: #f4f4fd;
+  padding-bottom: 120px;
+  padding-top:120px;
 }
 .content-titel {
   font-weight: 700;
@@ -187,6 +223,8 @@ body {
 /* footer  */
 .footer {
   background: #2e2f42;
+  padding-bottom: 120px;
+  padding-top:120px;
 }
 
 .footer-logo {
