@@ -230,7 +230,7 @@ body {
 .btn:hover,
 .btn:focus {
   background-color: var(--hover_blue);
-  color: #ffffff;
+  color:var(--white);
 }
 .products-list {
 }
