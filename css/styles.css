@@ -1,11 +1,39 @@
-/** @format */
-
-body {
-  font-family: open sans, sans-serif;
-  font-family: "Roboto", sans-serif;
-  color: var(--header-info);
-  background-color:var(--white);
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
 }
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+}
+ul {
+  margin: 0;
+  padding-left: 0;
+}
+.list {
+  list-style: none;
+}
+.link {
+  text-decoration: none;
+}
+button {
+  cursor: pointer;
+}
+address {
+  font-style: normal;
+}
+img {
+  display: block;
+}/** @format */
+
+
 :root {
   --white:#ffffff;
   --border-width: #e7e9fc;
@@ -15,18 +43,19 @@ body {
   --header-info:#434455;
   --aside-white: #f4f4fd;
 }
+body {
+  font-family: open sans, sans-serif;
+  font-family: "Roboto", sans-serif;
+  color: var(--header-info);
+  background-color:var(--white);
+}
+
 /* header */
 
 .header {
   background: var(--white);
 }
 
-.list {
-  list-style: none;
-}
-.link {
-  text-decoration: none;
-}
 .header-nav {
   
 }
