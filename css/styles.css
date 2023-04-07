@@ -41,6 +41,7 @@ img {
   --header-info:#434455;
   --aside-white: #f4f4fd;
 }
+
 body {
   font-family: open sans, sans-serif;
   font-family: "Roboto", sans-serif;
@@ -244,6 +245,10 @@ body {
 }
 
 /* portfolio */
+.button_list{
+ 
+
+}
 
 .btn {
   font-family: "Roboto", sans-serif;
