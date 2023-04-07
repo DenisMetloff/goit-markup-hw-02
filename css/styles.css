@@ -1,11 +1,4 @@
 /** @format */
-
-body {
-  font-family: open sans, sans-serif;
-  font-family: "Roboto", sans-serif;
-  color: var(--header-info);
-  background-color:var(--white);
-}
 :root {
   --white:#ffffff;
   --border-width: #e7e9fc;
@@ -15,6 +8,13 @@ body {
   --header-info:#434455;
   --aside-white: #f4f4fd;
 }
+body {
+  font-family: open sans, sans-serif;
+  font-family: "Roboto", sans-serif;
+  color: var(--header-info);
+  background-color:var(--white);
+}
+
 /* header */
 
 .header {
